@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WqgNjg1m27inQ91K9pLhC0FEwRzXFQj9jN+cfHo4Dh/o9PLGcaXmCRQi4vKMiwoKhxFihQDmw2KtMRVVL9Ppew==",
+  "dgSpecHash": "ywUlMSm7cFSZQ27OsyFUW3Fijdy+juef/PtmHgBrHdzWzHh3R8Q6OZgiWNDjKWM4R9CuZIL+OzYnc67Nbefdcg==",
   "success": true,
-  "projectFilePath": "C:\\Allfiles\\Labs\\13\\Starter\\webapp-sam-lab13\\webapp-sam-lab13.csproj",
+  "projectFilePath": "C:\\Allfiles\\Labs\\13\\Starter\\create-azure-app\\webapp-sam-lab13.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Allfiles\\Labs\\13\\Starter\\webapp-sam-lab13\\webapp-sam-lab13.csproj": {}
+    "C:\\Allfiles\\Labs\\13\\Starter\\create-azure-app\\webapp-sam-lab13.csproj": {}
   },
   "projects": {
-    "C:\\Allfiles\\Labs\\13\\Starter\\webapp-sam-lab13\\webapp-sam-lab13.csproj": {
+    "C:\\Allfiles\\Labs\\13\\Starter\\create-azure-app\\webapp-sam-lab13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Allfiles\\Labs\\13\\Starter\\webapp-sam-lab13\\webapp-sam-lab13.csproj",
+        "projectUniqueName": "C:\\Allfiles\\Labs\\13\\Starter\\create-azure-app\\webapp-sam-lab13.csproj",
         "projectName": "webapp-sam-lab13",
-        "projectPath": "C:\\Allfiles\\Labs\\13\\Starter\\webapp-sam-lab13\\webapp-sam-lab13.csproj",
+        "projectPath": "C:\\Allfiles\\Labs\\13\\Starter\\create-azure-app\\webapp-sam-lab13.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Allfiles\\Labs\\13\\Starter\\webapp-sam-lab13\\obj\\",
+        "outputPath": "C:\\Allfiles\\Labs\\13\\Starter\\create-azure-app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
